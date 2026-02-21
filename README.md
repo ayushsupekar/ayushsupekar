@@ -2,8 +2,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ayushsupekar&label=Profile%20views&color=0e75b6&style=flat" alt="ayushsupekar" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ayushsupekar" alt="ayushsupekar" /></a> </p>
-
 - 🔭 I’m currently working on **AI Driven Sales Automation**
 
 - 🌱 I’m currently learning **Advanced Java concepts and AI technologies.**
